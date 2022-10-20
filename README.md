@@ -2,9 +2,14 @@
 ![Frax Logo](https://daei.ultrabs.cf/image/2.png "Frax Logo")
 Frax is an open-source library for C/C++, A lot of small things packed up together.
 
-[To-do list]()
-
-
+[To-do list](https://github.com/mohsenemx/frax#to-do-list)
+## What Does Frax Do?
+Frax is still in it's early development stages, so there should be a lot of bugs or issues.
+Right now, Frax is able to perform these actions:
+* Define Pi, as Pi (You can call it whenever you need it.)
+* Add Log() function. [Wiki Page]()
+* Add logt() function. [Wiki Page]()
+* Includes basic useful libraries.
 
 ## To-Do List
 Here is a list what I plan to add in the future.
