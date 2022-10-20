@@ -7,6 +7,7 @@
 #define log(x) std::logg(text);
 #define pi 3.14159265359;
 
+const std::string frax_version = "v 0.3 Beta";
 
 std::string fname = "latest.txt";
 
