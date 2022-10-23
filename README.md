@@ -12,7 +12,7 @@ Right now, Frax is able to perform these actions:
 * Define Phi, as [Phi](https://github.com/mohsenemx/frax/wiki/Phi) (You can call it whenever you need it.)
 * Add [Log()](https://github.com/mohsenemx/frax/wiki/Log()-Function) function.
 * Add [logt()](https://github.com/mohsenemx/frax/wiki/Logt()-Function) function.
-* Add [time()]() function.
+* Add [times()](https://github.com/mohsenemx/frax/wiki/Times()-Function) function.
 * Includes basic useful libraries. [List of Used Libraries](https://github.com/mohsenemx/frax/wiki/Used-Libraries)
 
 ## To-Do List
