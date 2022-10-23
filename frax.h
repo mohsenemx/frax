@@ -4,7 +4,9 @@
 #include <string>
 #include <math.h>
 #include <cstdlib>
+#include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 
 using namespace std;
 
@@ -12,6 +14,7 @@ using namespace std;
 #define Logt(x) std::logt(text,filename);
 #define log(x) std::logg(text);
 #define rnd(x,y) std::trnd(min, max);
+#define times() timess();
 // Defining Math Related Things
 #define pi 3.14159265359;
 #define phi 1.61803398;
@@ -35,4 +38,10 @@ void logg(string text) { // log function
 int trnd(int min, int max) { // in beta, the function for random number.
     srand(time(0));
     long long int rsfc = rand() % 4;
+    return 0;
+}
+
+void timess() {
+    time_t my_time = time(NULL);
+    printf("%s", ctime(&my_time));
 }
