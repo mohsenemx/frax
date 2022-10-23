@@ -2,7 +2,9 @@
 ![Frax Logo](https://daei.ultrabs.cf/image/2.png "Frax Logo")
 Frax is an open-source library for C/C++, A lot of small things packed up together.
 
-[How to use Frax]()
+[How to use Frax](https://github.com/mohsenemx/frax#how-to-use-frax)
+
+
 [To-do list](https://github.com/mohsenemx/frax#to-do-list)
 
 ## What Does Frax Do?
